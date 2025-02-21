@@ -1,3 +1,4 @@
+![looper](https://github.com/user-attachments/assets/5089f8d7-2176-4e38-852f-787a1082a100)
 # **Looper - AI-Powered Resume & Job Description Analyzer**
 
 **Looper** is an AI-powered tool that helps job seekers refine their resumes based on specific job descriptions. By uploading your resume and a job description, Looper analyzes the content, identifies gaps in experience, and suggests actionable improvements to enhance your chances of landing the job. It's the ultimate tool to ensure your resume perfectly aligns with job requirements!
